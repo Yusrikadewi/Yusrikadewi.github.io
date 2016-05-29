@@ -14,3 +14,5 @@ saya mahasiswi uin suska riau program studi sistem informasi fakultas sains dan 
 saat ini saya semester 6,semester yang dimana kata orang-orang semester yang paling berat, hmm dan ini website pertama saya untuk memenuhi tugas matakuliah Application Mobile.
 semoga tertarik dengan website saya
 Terima Kasih sudah mampir :)
+Silahkan kunjungi Link berikut untuk mengetahui informasi lengkap seputar Uin suska http://sif.uin-suska.ac.id/ atau
+http://uin-suska.ac.id/
