@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome"
-excerpt: "Custom written post descriptions are the way to go... if you're not lazy."
+excerpt: "Tentang Yusrika Dewi"
 tags: [sample post, readability, test]
 comments: true
 image:
